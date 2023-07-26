@@ -1,0 +1,16 @@
+/* Custom CSS to make the navbar full-width */
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+  }
+  
+  .navbar {
+    width: 100%;
+    max-width: 100%;
+  }
+  
+  .container-fluid {
+    padding: 0;
+  }
+  
